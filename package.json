@@ -1,0 +1,23 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["form", "form-validation", "react"],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash": "4.17.5",
+    "prop-types": "15.6.1",
+    "react": "15.6.2",
+    "react-dom": "15.6.2",
+    "react-scripts": "1.1.0",
+    "rxjs": "5.5.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
