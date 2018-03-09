@@ -19,5 +19,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "author": {
+    "name": "kjj6198",
+    "email": "kjj6198@gmail.com"
   }
 }
